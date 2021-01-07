@@ -2,7 +2,7 @@
 
 Files mover
 
-Move files according to its type of file (example: jpg, png, txt, etc) from one directory to a new one
+Move files according to its type of file `(example: jpg, png, txt, etc)` from one directory to a new one
 
 > *How to use*
 
