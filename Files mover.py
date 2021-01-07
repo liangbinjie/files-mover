@@ -20,7 +20,7 @@ def clear_placeholder(event, extensionentry):   # clear the place holder in the 
     extensionentry.delete(0, tk.END)
 
 
-""" Under developement
+""" Popup windows under developement 
 
 def popupmsg():
     popup = tk.Tk()
