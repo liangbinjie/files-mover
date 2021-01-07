@@ -25,7 +25,7 @@ def clear_placeholder(event, extensionentry):   # clear the place holder in the 
 def popupmsg():
     popup = tk.Tk()
     popup.wm_title("")
-    popup.iconbitmap(r"D:\Archivos de programa\JetBrains\PycharmProjects\projects\folder_icon.ico")
+    popup.iconbitmap(r"Directory from Files Mover icon\folder_icon.ico")
     label = tk.Label(popup, text="Files successfully moved")
     label.pack(side="top", fill="x", pady=10)
     button = tk.Button(popup, text="Okay", command=popup.destroy)
@@ -36,7 +36,7 @@ def popupmsg():
 def warn_popupmsg():
     popup = tk.Tk()
     popup.wm_title("")
-    popup.iconbitmap(r"D:\Archivos de programa\JetBrains\PycharmProjects\projects\folder_icon.ico")
+    popup.iconbitmap(r"Directory from Files Mover icon\folder_icon.ico")
     label = tk.Label(popup, text="Not correct extension or directory, provide the extension without a dot")
     label.pack(side="top", fill="x", pady=10)
     button = tk.Button(popup, text="Okay", command=popup.destroy)
@@ -64,7 +64,7 @@ def move():     # Move files function
 
 master = tk.Tk()
 
-master.iconbitmap(r'D:\Archivos de programa\JetBrains\PycharmProjects\projects\folder_icon.ico')
+master.iconbitmap(r'Directory from Files Mover icon\folder_icon.ico')
 master.title("Move Files by its type")
 
 
