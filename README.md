@@ -2,7 +2,8 @@
 
 Files mover
 
-Move files according to its type of file `(example: jpg, png, txt, etc)` from one directory to a new one
+Move files according to its type of file `(example: jpg, png, txt, etc)` from one directory to a new one.
+To start using it, just download the `exe` file. :D
 
 > *How to use*
 
