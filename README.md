@@ -10,7 +10,7 @@ To start using it, just download the `exe` file.
 
 *See Preview.png*
 
-Provide the directory from where the files are and provide the directory you want those files to go, and just type which type of files you want, for example `jpg, png, txt, py, etc`
+Provide the directory from where the files are and provide the directory where you want those files to go, and just type which type of files you want to move, for example `jpg, png, txt, py, etc`
 
 If you add a dot before the type of file, it won't work, 
 *Just type for example: `jpg` **NOT** `.jpg`*
