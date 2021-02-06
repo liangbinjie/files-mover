@@ -13,4 +13,4 @@ To start using it, just download the `exe` file.
 Provide the directory from where the files are and provide the directory you want those files to go, and just type which type of files you want, for example `jpg, png, txt, py, etc`
 
 If you add a dot before the type of file, it won't work, 
-*Just type like `jpg` **NOT** `.jpg`*
+*Just type for example: `jpg` **NOT** `.jpg`*
